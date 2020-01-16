@@ -1,0 +1,19 @@
+IP ADDRESS AND MASK: 200.200.200.200/24
+
+
+Network address from a given ip and mask: 200.200.200.0
+IP class: C
+This IP is: public
+
+Subnet mask in dotted decimal notation: 255.255.255.0
+Subnet mask in binary notation:  11111111 11111111 11111111 00000000
+
+Broadcast address in dotted decimal notation: 200.200.200.255
+Broadcast address in binary notation: 11001000 11001000 11001000 11111111
+
+First host address in dotted decimal notation: 200.200.200.1
+First host address in binary notation: 11001000 11001000 11001000 00000001
+Last last address in dotted decimal notation: 200.200.200.254
+Last last address in binary notation: 11001000 11001000 11001000 11111110
+
+Maximum number of hosts: 254
